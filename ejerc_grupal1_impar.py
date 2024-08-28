@@ -1,4 +1,10 @@
-"""Ejercicio1: Desarrolla un programa en Python que simule la gestión de una biblioteca. El programa debe permitir al usuario realizar las siguientes acciones:
+"""
+CAMILA AGUAYO
+DIEGO BILZ
+DAVID TORRES
+EVELIN GARCIA
+
+Ejercicio1: Desarrolla un programa en Python que simule la gestión de una biblioteca. El programa debe permitir al usuario realizar las siguientes acciones:
 Agregar un libro: Ingresar el título, el autor y el año de publicación del libro. Los datos deben almacenarse en un diccionario donde la clave es el título del libro y el valor es una tupla con el autor y el año de publicación.
 Buscar un libro: Consultar los detalles de un libro ingresando su título. Si el libro existe, se debe mostrar el autor y el año de publicación; de lo contrario, informar que el libro no está en la biblioteca.
 Eliminar un libro: Eliminar un libro de la biblioteca basado en el título ingresado. Si el libro existe, se debe eliminar y confirmar la eliminación; de lo contrario, informar que el libro no está en la biblioteca.
